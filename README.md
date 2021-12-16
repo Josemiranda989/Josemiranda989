@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [Digital House](Digital House)
 
-<p align="center">[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_4.svg)](https://cafecito.app/josemiranda989) </p>
+[![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_4.svg)](https://cafecito.app/josemiranda989)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
