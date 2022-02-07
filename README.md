@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **React - Node.Js**
 
-- 👯 And working on [Krak-miami](https://github.com/Josemiranda989/krak-miami)
+- 👯 And working on [COHORTE 3 NO COUNTRY](http://nocountry.tech/)
 
 - 👨‍💻 All of my projects are available at [https://cvjosemiranda.netlify.app/](https://cvjosemiranda.netlify.app/)
 
